@@ -2,6 +2,7 @@ altair==5.5.0
 altex==0.2.0
 asn1crypto==1.5.1
 attrs==25.4.0
+yfinance==1.2.0
 beautifulsoup4==4.14.2
 blinker==1.9.0
 boto3==1.40.59
@@ -101,5 +102,4 @@ urllib3==1.26.20
 validators==0.35.0
 websockets==15.0.1
 XlsxWriter==3.2.3
-yfinance==1.2.0
 zipp==3.21.0
